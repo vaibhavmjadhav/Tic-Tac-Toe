@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 
-It is micro project based on HTML,CSS and Javascript.
+It is micro project based on basic components in HTML,CSS and Javascript.
 #HTML,CSS & JAVASCRIPT
